@@ -1,6 +1,1 @@
-{
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "notas": "Primera versión de la app",
-  "apkUrl": "https://github.com/TU_USUARIO/liquiruta-fp-updates/releases/download/v1.0.0/app-release.apk"
-}
+{ "versionCode": 1, "versionName": "1.0.0", "notas": "Primera versión de la app", "apkUrl": "https://github.com/j0t4-w4r0/liquiruta-fp-updates/releases/download/v1.0.0/app-debug.apk" }
